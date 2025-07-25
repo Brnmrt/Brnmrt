@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/rnM_zwKXaf4AAAAi/quest-club-quest-fitness.gif"  />
+  <img height="150" src="https://i.imgur.com/DHY7Sta.gif" alt="Fitness GIF" />
 </div>
+
 
 ###
 
