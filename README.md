@@ -14,7 +14,7 @@
 <p align="center">
 🎓 Recent Computer Science & Software Engineering graduate (ISEC)<br>
 💻 Aspiring Software Engineer | AI & Web Development Enthusiast<br>
-🚀 Focused on building scalable digital products for businesses
+🚀 Driven to design and implement scalable digital solutions for businesses
 </p>
 
 <div align="center">
@@ -28,10 +28,10 @@
 ## 👨‍💻 About Me  
 
 - 🎓 Recently completed my **Bachelor’s in Computer Science & Software Engineering** at ISEC  
-- 🔭 Looking for opportunities in **software engineering & web development**  
-- 📚 Currently learning: **Artificial Intelligence, Financial Literacy & Entrepreneurship**  
-- 💡 Passionate about creating **useful, scalable solutions** for small businesses  
-- ⚡ In my free time: experimenting with new technologies, improving coding skills, and working on side projects  
+- 🔭 Actively seeking opportunities in **software engineering & web development**  
+- 📚 Currently expanding skills in **Artificial Intelligence, Financial Literacy & Entrepreneurship**  
+- 💡 Passionate about **developing practical, business-oriented solutions** that have real-world impact  
+- ⚡ Outside of coding: experimenting with new tech stacks, sharpening problem-solving skills, and working on side projects  
 
 ---
 
@@ -49,11 +49,12 @@
         <a href="https://www.sergiomartins.com.pt" target="_blank">Sérgio Martins - Corporate Website & Digital Infrastructure</a>
       </h4>
       <p>
-        Led a full overhaul of the company’s digital presence, replacing a legacy vendor solution.  
-        My role went beyond frontend with React + TypeScript to cover infrastructure:  
-        - Domain migration & webmail configuration  
-        - Email security with **DKIM & DMARC**  
-        - Currently developing a **ticket-based client communication system**
+        Led the **modernisation of the company’s digital presence**, replacing a rigid vendor-dependent setup with a flexible, maintainable solution.  
+        My contribution went beyond frontend work, including infrastructure and digital security:  
+        - Designed and deployed a modern frontend using **React + TypeScript + Vite + Tailwind CSS**  
+        - Migrated domain and configured professional webmail services  
+        - Implemented **email authentication standards (DKIM & DMARC)** for security and compliance  
+        - Currently building a **ticket-based communication system** to streamline client support  
       </p>
     </td>
   </tr>
