@@ -31,6 +31,7 @@
 
 <p align="left">🔭 I recently completed my Bachelor’s degree in Computer Science and Software Engineering at ISEC, and I’m currently seeking opportunities in software engineering.<br><br>📚 I’m actively learning about Artificial Intelligence, financial literacy, and entrepreneurship, with a strong focus on creating useful and scalable digital products for small businesses.<br><br>⚡ In my free time, I enjoy exploring new technologies, sharpening my coding skills, and developing ideas for future projects.</p>
 
+---
 
 ### 🚀 My Main Project
 
@@ -59,7 +60,6 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>&nbsp;
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>&nbsp;
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>&nbsp;
   </p>
   <p>
     <a href="https://www.sergiomartins.com.pt" target="_blank">
