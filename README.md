@@ -37,7 +37,7 @@
 <div align="center">
 
   <a href="https://www.sergiomartins.com.pt" target="_blank">
-    <img src="[!! URL DA TUA IMAGEM DO SITE AQUI !!]" alt="Sérgio Martins Technical Installations Website Preview" width="700"/>
+    <img src="https://imgur.com/a/Ru4nNom" alt="Sérgio Tiago Martins - Instalações Técnicas, Lda - Website Preview" width="700"/>
   </a>
   
   <br/>
