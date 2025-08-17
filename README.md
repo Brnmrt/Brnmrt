@@ -50,7 +50,7 @@
       </h4>
       <ul>
         <li>
-          🎨 <strong>Modern Front-End:</strong> Developed the entire interface from scratch using <strong>React, TypeScript, and Tailwind CSS</strong>, replacing an old, inflexible platform.
+          🎨 <strong>Modern Front-End:</strong> Developed the entire interface with <strong>React, TypeScript, and Tailwind CSS</strong>, replacing an old, inflexible platform.
         </li>
         <li>
           🌐 <strong>Digital Infrastructure:</strong> Managed the full domain migration process and configured <strong>professional webmail services</strong> for the company.
