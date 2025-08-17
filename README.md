@@ -47,7 +47,7 @@
         <a href="https://www.sergiomartins.com.pt" target="_blank">Sérgio Martins - Corporate Website & Digital Infrastructure</a>
       </h4>
       <p>
-        I led the complete overhaul of the digital presence for "Sérgio Tiago Martins - Instalações Técnicas, Lda", replacing an outdated website from a previous vendor. The project involved not only developing a modern, responsive website using React and TypeScript but also managing the entire infrastructure from the ground up. This included domain migration, configuring webmail services, and critically, bolstering security by implementing email protocols like DKIM & DMARC to prevent spoofing. A ticket-based system for the contact form is currently under development to further streamline client communication.
+        I led a complete overhaul of the digital presence for "Sérgio Tiago Martins - Instalações Técnicas, Lda", replacing a legacy site from a previous vendor. My role extended beyond development with React and TypeScript to include full infrastructure management: from domain migration and webmail configuration to bolstering security with critical email protocols like DKIM & DMARC to prevent spoofing. A ticket-based system is currently in development to enhance the contact form and streamline client communication.
       </p>
     </td>
   </tr>
