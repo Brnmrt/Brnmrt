@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-    <td width="150" valign="top">
+    <td width="150" valign="top" align="center">
       <a href="https://www.sergiomartins.com.pt" target="_blank">
         <img src="https://i.imgur.com/sRByLNe.png" alt="Sérgio Tiago Martins - Instalações Técnicas, Lda - Website Preview" width="120"/>
       </a>
