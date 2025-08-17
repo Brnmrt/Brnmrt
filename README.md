@@ -33,7 +33,6 @@
 
 ###
 
-<div align="left"> <a href="https://www.sergiomartins.com.pt" target="_blank">sergiomartins.com.pt</a> — React · AI‑assisted <br/> <img src="https://img.shields.io/badge/status-live-green" alt="status"/> <img src="https://img.shields.io/badge/seo-optimized-orange" alt="seo"/> </div>
 
 
 ###
