@@ -12,7 +12,7 @@
 
 <h1 align="center">👋 Hey there, I'm Bruno Martins</h1>
 <p align="center">
-🎓 Recent Computer Science & Software Engineering graduate (ISEC)<br>
+🎓 Recent Computer Engineering graduate (ISEC)<br>
 💻 Aspiring Software Engineer | AI & Web Development Enthusiast<br>
 🚀 Driven to design and implement scalable digital solutions for businesses
 </p>
