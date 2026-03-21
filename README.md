@@ -2,19 +2,17 @@
   <img height="150" src="https://i.imgur.com/DHY7Sta.gif" alt="Coding GIF" />
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Brnmrt.Brnmrt&" />
 </div>
 
 ---
 
-<h1 align="center">👋 Hey there, I'm Bruno Martins</h1>
+<h1 align="center">Bruno Martins</h1>
+
 <p align="center">
-🎓 Recent Computer Engineering graduate (ISEC)<br>
-💻 Aspiring Software Engineer | AI & Web Development Enthusiast<br>
-🚀 Driven to design and implement scalable digital solutions for businesses
+Software Engineer focused on <strong>distributed systems, backend architecture & legacy modernization</strong><br>
+Building scalable solutions that solve real business problems
 </p>
 
 <div align="center">
@@ -27,39 +25,42 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 Recently completed my **Bachelor’s in Computer Science & Software Engineering** at ISEC  
-- 🔭 Actively seeking opportunities in **software engineering & web development**  
-- 📚 Currently expanding skills in **Artificial Intelligence, Financial Literacy & Entrepreneurship**  
-- 💡 Passionate about **developing practical, business-oriented solutions** that have real-world impact  
-- ⚡ Outside of coding: experimenting with new tech stacks, sharpening problem-solving skills, and working on side projects  
+- 🎓 Computer Engineering graduate from ISEC  
+- 🏗️ Currently working on **modernizing large-scale legacy systems into microservices architectures**  
+- ⚙️ Experience with **Java, Spring Boot, Kafka, distributed systems & event-driven design**  
+- 🧠 Strong interest in **software architecture, scalability & system design**  
+- 💡 Focused on building **practical, business-oriented solutions with real impact**  
+- 📈 Passionate about **technology, finance & entrepreneurship**  
 
 ---
 
-## 🚀 Main Project  
+## 🚀 Featured Project  
 
 <table>
   <tr>
     <td width="150" valign="top" align="center">
       <a href="https://www.sergiomartins.com.pt" target="_blank">
-        <img src="https://i.imgur.com/sRByLNe.png" alt="Sérgio Tiago Martins - Website Preview" width="120"/>
+        <img src="https://i.imgur.com/sRByLNe.png" alt="Website Preview" width="120"/>
       </a>
     </td>
     <td valign="top">
       <h4>
-        <a href="https://www.sergiomartins.com.pt" target="_blank">Sérgio Martins - Corporate Website & Digital Infrastructure</a>
+        <a href="https://www.sergiomartins.com.pt" target="_blank">
+          Corporate Website & Digital Infrastructure
+        </a>
       </h4>
       <ul>
         <li>
-          🎨 <strong>Modern Front-End:</strong> Developed the entire interface with <strong>React, TypeScript, and Tailwind CSS</strong>, replacing an old, inflexible platform.
+          🎨 Built a modern front-end using <strong>React, TypeScript & Tailwind CSS</strong>, replacing a legacy solution
         </li>
         <li>
-          🌐 <strong>Digital Infrastructure:</strong> Managed the full domain migration process and configured <strong>professional webmail services</strong> for the company.
+          🌐 Managed full <strong>domain migration & infrastructure setup</strong>
         </li>
         <li>
-          🛡️ <strong>E-mail Security:</strong> Implemented <strong>DKIM & DMARC</strong> authentication protocols to protect communications and ensure compliance.
+          🛡️ Implemented <strong>DKIM & DMARC</strong> for secure and reliable email delivery
         </li>
         <li>
-          🎟️ <strong>Upcoming Feature:</strong> Currently developing a <strong>ticket-based system</strong> to streamline client communication and support.
+          ⚙️ Designing a <strong>ticket-based system</strong> to streamline customer communication
         </li>
       </ul>
     </td>
@@ -67,44 +68,65 @@
 </table>
 
 <div align="center">
-  <p><strong>Technologies:</strong></p>
+  <p><strong>Tech Stack</strong></p>
   <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>&nbsp;
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>&nbsp;
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </p>
   <p>
     <a href="https://www.sergiomartins.com.pt" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-orange?style=for-the-badge" alt="Live Demo"/>
-    </a>&nbsp;
-    <img src="https://img.shields.io/badge/Repository-Private-blue?style=for-the-badge&logo=github" alt="Private Repository"/>
+      <img src="https://img.shields.io/badge/Live_Demo-orange?style=for-the-badge"/>
+    </a>
+    <img src="https://img.shields.io/badge/Repository-Private-blue?style=for-the-badge&logo=github"/>
   </p>
 </div>
 
 ---
 
-## 🛠 Languages & Tools  
+## 🛠 Tech Stack  
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="Anaconda"/>
+
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
+
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+
+### Data & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Brnmrt&theme=dark&hide_border=true" alt="GitHub Streak"/><br><br>
+  <img src="https://streak-stats.demolab.com?user=Brnmrt&theme=dark&hide_border=true"/><br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brnmrt/Brnmrt/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brnmrt/Brnmrt/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brnmrt/Brnmrt/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/Brnmrt/Brnmrt/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+---
+
+## 🚀 Goals  
+
+- Build scalable systems used by thousands/millions of users  
+- Deep dive into **system design & distributed architectures**  
+- Launch **products that generate real revenue**  
+
+---
+
+<p align="center">
+  <i>"Code is a tool — building valuable systems is the goal."</i>
+</p>
