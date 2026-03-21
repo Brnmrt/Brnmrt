@@ -11,77 +11,64 @@
 <h1 align="center">Bruno Martins</h1>
 
 <p align="center">
-Software Engineer focused on <strong>distributed systems, backend architecture & legacy modernization</strong><br>
-Building scalable solutions that solve real business problems
+Backend Software Engineer focused on <strong>distributed systems & legacy modernization</strong><br>
+Turning complex, large-scale systems into scalable, reliable architectures
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brnmrt/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 What I Do  
 
-- 🎓 Computer Engineering graduate from ISEC  
-- 🏗️ Currently working on **modernizing large-scale legacy systems into microservices architectures**  
-- ⚙️ Experience with **Java, Spring Boot, Kafka, distributed systems & event-driven design**  
-- 🧠 Strong interest in **software architecture, scalability & system design**  
-- 💡 Focused on building **practical, business-oriented solutions with real impact**  
-- 📈 Passionate about **technology, finance & entrepreneurship**  
+I work on **real-world, large-scale systems**, where reliability, scalability and business continuity matter.
+
+- 🏗️ Modernizing **legacy monoliths into microservices architectures**
+- ⚙️ Designing **event-driven systems** using Kafka
+- 🔍 Debugging and evolving **critical production flows**
+- 🔗 Building **resilient integrations between distributed services**
+- 📊 Working with systems where **downtime and errors have real impact**
 
 ---
 
-## 🚀 Featured Project  
+## 🧠 Engineering Focus  
+
+- Distributed Systems & Event-Driven Architecture  
+- Backend Engineering (Java, Spring Boot)  
+- System Design & Scalability  
+- Legacy System Transformation  
+- Data Consistency & Reliability  
+
+---
+
+## 🚀 Selected Work  
 
 <table>
   <tr>
     <td width="150" valign="top" align="center">
       <a href="https://www.sergiomartins.com.pt" target="_blank">
-        <img src="https://i.imgur.com/sRByLNe.png" alt="Website Preview" width="120"/>
+        <img src="https://i.imgur.com/sRByLNe.png" width="120"/>
       </a>
     </td>
     <td valign="top">
       <h4>
         <a href="https://www.sergiomartins.com.pt" target="_blank">
-          Corporate Website & Digital Infrastructure
+          Digital Platform & Infrastructure (SMT)
         </a>
       </h4>
       <ul>
-        <li>
-          🎨 Built a modern front-end using <strong>React, TypeScript & Tailwind CSS</strong>, replacing a legacy solution
-        </li>
-        <li>
-          🌐 Managed full <strong>domain migration & infrastructure setup</strong>
-        </li>
-        <li>
-          🛡️ Implemented <strong>DKIM & DMARC</strong> for secure and reliable email delivery
-        </li>
-        <li>
-          ⚙️ Designing a <strong>ticket-based system</strong> to streamline customer communication
-        </li>
+        <li>Rebuilt the company’s digital presence from scratch with a modern stack</li>
+        <li>Handled full <strong>domain, email & infrastructure setup</strong></li>
+        <li>Implemented <strong>email authentication (DKIM, DMARC)</strong></li>
+        <li>Designing internal tools to improve <strong>operational efficiency</strong></li>
       </ul>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <p><strong>Tech Stack</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  </p>
-  <p>
-    <a href="https://www.sergiomartins.com.pt" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-orange?style=for-the-badge"/>
-    </a>
-    <img src="https://img.shields.io/badge/Repository-Private-blue?style=for-the-badge&logo=github"/>
-  </p>
-</div>
 
 ---
 
@@ -89,7 +76,7 @@ Building scalable solutions that solve real business problems
 
 <div align="center">
 
-### Backend
+### Core
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
@@ -98,9 +85,8 @@ Building scalable solutions that solve real business problems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
 
-### Data & Tools
+### Data & Infra
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 
 </div>
@@ -119,14 +105,21 @@ Building scalable solutions that solve real business problems
 
 ---
 
-## 🚀 Goals  
+## 🎯 Current Direction  
 
-- Build scalable systems used by thousands/millions of users  
-- Deep dive into **system design & distributed architectures**  
-- Launch **products that generate real revenue**  
+- Mastering **distributed systems in production environments**  
+- Deepening expertise in **event-driven architecture & Kafka ecosystems**  
+- Building **products that generate real business value**  
+
+---
+
+## ⚡ Mindset  
+
+I’m not focused on just writing code —  
+I focus on **building systems that solve real problems, at scale, under real constraints**.
 
 ---
 
 <p align="center">
-  <i>"Code is a tool — building valuable systems is the goal."</i>
+  <i>"Simple systems scale. Complex systems break. The challenge is knowing the difference."</i>
 </p>
